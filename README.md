@@ -2,7 +2,7 @@
 
 This is a basic Blogger clone to create a blog with comments.
 
-Time spent: `<Number of hours spent>`
+Time spent: 14
 
 ### Features
 
@@ -33,4 +33,5 @@ Time spent: `<Number of hours spent>`
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](https://github.com/gurucharan1002/blogger-demo/blob/master/assignment3_updated_4.gif)
+
